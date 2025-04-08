@@ -11,7 +11,6 @@ const ShowUserName = ( props ) => {
         </div>
     )
 
-
 }
 
 export default ShowUserName
