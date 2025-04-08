@@ -1,12 +1,13 @@
 import ManageData from './components/ManageData'
 import './App.css'
+import ShowUserName from './components/ShowUserName'
 
 function App() {
  
 
   return (
     <>
-     <ManageData/>
+     <ShowUserName name="Eduardo" />
     </>
   )
 }
