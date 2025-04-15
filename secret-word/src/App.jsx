@@ -1,11 +1,14 @@
 
 import './App.css'
+import StartScreen from './components/StartScreen'
 
 function App() {
   
   return (
     <>
-      <h1>teste</h1>
+      <div className='App'>
+       <StartScreen />
+      </div>
     </>
   )
 }
